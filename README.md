@@ -1,7 +1,2 @@
-# NLP_Text_Classsifier
-A text classifier built using NLTK and Scikit Learn that very accurately filters spam SMS out. 
-
-This classifier was trained by data from the UCI Machine Learning Repository. It contains over 5000 SMS labeled messages that have been collected for mobile phone spam research. It can be downloaded from the following URL:
-  
-    https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
-    
+# nlptextclassification
+This is the source code for the 'Natural Language Processing for Text Classification with NLTK &amp; Scikit-learn' project by: Utkarsha Vardhana (utkarshavardhana85@gmail.com), Tanmay Sharma (tanmay.sharma97.ts@gmail.com), Varun Khandelwal (varunvtgvarun@gmail.com) from Maharaja Agrasen Institute of Technology.
